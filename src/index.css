@@ -38,7 +38,15 @@ body {
 }
 
 .canvas {
-	margin-top: 0.5rem;
+	margin-top: 0.25rem;
+}
+
+.parent {
+	display: flex;
+	flex-direction: column;
+	/* justify-content: center; */
+	align-items: center;
+	height: 100vh;
 }
 
 form {
