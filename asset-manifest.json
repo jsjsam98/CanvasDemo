@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.css": "/static/css/main.57ed9bf8.css",
-    "main.js": "/static/js/main.bcc03e87.js",
-    "index.html": "/index.html",
-    "main.57ed9bf8.css.map": "/static/css/main.57ed9bf8.css.map",
-    "main.bcc03e87.js.map": "/static/js/main.bcc03e87.js.map"
+    "main.css": "/CanvasDemo/static/css/main.57ed9bf8.css",
+    "main.js": "/CanvasDemo/static/js/main.bcc03e87.js",
+    "index.html": "/CanvasDemo/index.html",
+    "main.57ed9bf8.css.map": "/CanvasDemo/static/css/main.57ed9bf8.css.map",
+    "main.bcc03e87.js.map": "/CanvasDemo/static/js/main.bcc03e87.js.map"
   },
   "entrypoints": [
     "static/css/main.57ed9bf8.css",
